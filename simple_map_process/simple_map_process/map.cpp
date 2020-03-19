@@ -13,6 +13,7 @@ long long * map(long long *A, long long N, long long(*f)(long long i))
 	for (i = 0;i < N;i++)
 	{
 		A[i] = f(A[i]);
+    
 		cout << omp_get_num_threads() << endl;
 
 	 }
