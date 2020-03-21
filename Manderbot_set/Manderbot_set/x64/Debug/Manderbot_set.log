@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\hebowei2000\documents\visual studio 2017\parallel_programming\manderbot_set\manderbot_set\main.cpp(46): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Manderbot_set.vcxproj -> C:\Users\hebowei2000\Documents\Visual Studio 2017\Parallel_Programming\Manderbot_set\x64\Debug\Manderbot_set.exe
